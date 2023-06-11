@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Samuel Oluwatayo Alajo
+- 👀 I’m a Data Scientist with extensive experience in Programming Languages, Statistical Analysis, and Machine Learning.
+- 💞️ I’m looking to collaborate with other Data Professionals, Researchers and Organizations to develop innovative solutions that drive growth.
+- 📫 Connect with me on www.linkedin.com/in/samueloluwatayoalajo
